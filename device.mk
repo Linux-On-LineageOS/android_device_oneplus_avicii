@@ -504,3 +504,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/oneplus/avicii/avicii-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
